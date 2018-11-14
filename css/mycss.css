@@ -1,0 +1,153 @@
+.heading-design{
+	font-family: 'Eczar',serif !important;
+}
+
+.nav-item > a{
+	color:rgb(87, 83, 83)!important ;
+}
+
+.nav-item a:hover{
+	text-shadow: 2px 2px 4px orange;
+}
+
+.navbar-dark{
+	background: rgba(255, 255, 0, 0.9);
+}
+
+
+html, body, header{
+	height: 100%;
+	font-family: 'Trocchi', serif !important;
+	background: rgb(250, 250, 249) !important;
+	/* background: rgb(87, 83, 83); */
+}
+
+#intro{
+	height: 100%;
+	background: brown url("../images/bg_design.gif");
+	/* background-color: none !important; */
+	background-size: cover;
+	background-position: center;
+}
+
+#logo{
+	width: 50%;
+	margin-left: -10%;
+}
+
+.navbar-brand{
+	width: 8rem;
+}
+
+.navbar-toggler-icon{
+	color: black !important;
+}
+
+.grey-text{
+	color: rgb(87, 83, 83)!important ;
+}
+
+.make-center {
+	justify-content : center;
+}
+
+.big-design{
+	font-size: 1.8rem;
+}
+
+.medium-design{
+	font-size: 1.5rem;
+}
+
+.no-background{
+	background: none;
+	border: none;
+	box-shadow: none;
+}
+
+#event-list{
+	color: rgb(87, 83, 83);
+}
+
+.event-list-container{
+	background-image: none !important;
+}
+
+
+.schedule-nav{
+	/* background: lightcoral !important; */
+}
+
+.schedule-nav li a{
+	color: aliceblue;
+	font-weight: bold;
+}
+
+.schedule-list{
+	list-style-image: url("../images/logos/icon2.png");
+}
+
+#map {
+	height: 400px;  /* The height is 400 pixels */
+	width: 100%;  /* The width is the width of the web page */
+	 }
+	 
+carousel-control{
+	color: black !important;
+	background: black !important;
+} 
+
+/******************* About Design *****************/
+
+.feature-box {
+	margin : 5rem 0;
+  }
+  
+  .feature-heading {
+	font-family : 'Eczar',serif;
+	margin-bottom : 2rem;
+  }
+  
+  .feature-content {
+	align-self : flex-start;
+  }
+  
+  .feature-image {
+	align-self : center;
+  }
+  
+  @media only screen and (max-width:576px) {
+	.feature-box{
+	  padding : 0 2rem;
+	}
+  }
+
+  .waves-light{
+	color:rgb(87, 83, 83)!important ;
+  }
+
+  .bg-theme{
+	background: rgba(255, 255, 0, 0.9);
+  }
+
+  /*********** #About Ends ****************************/
+
+  .date-sort{
+	width: 100% !important;
+  }
+
+  .date-list{
+	  width: 100% !important;
+  }
+
+  .day{
+	  font-size: 0.8rem !important;
+  }
+
+  .date{
+	  font-size: 1.4rem !important;
+  }
+
+  .date{
+	  font-size: large;
+  }
