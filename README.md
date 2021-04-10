@@ -2,4 +2,4 @@
 
 ### Sample page
 
-<img src="./images/Udgam-lp.png" width="320px"/>
+<img src="./images/Udgam-lp.png" width="540px"/>
